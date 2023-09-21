@@ -1,0 +1,2 @@
+# CursoPythonUSP
+Projetos do curso 
